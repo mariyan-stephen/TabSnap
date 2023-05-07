@@ -1,9 +1,9 @@
-![TabSnap Screenshot](screenshot.png)
-
-
 # TabSnap
 
 TabSnap is a browser extension that allows you to quickly copy the URLs of all open tabs to your clipboard.
+
+![TabSnap Screenshot](screenshot.png)
+
 
 ## Features
 
